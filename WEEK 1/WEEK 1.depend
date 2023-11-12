@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699807411 source:c:\users\absar\documents\week 1\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
